@@ -1,0 +1,4 @@
+name: Auth2
+version: '${version}'
+main: lc.auth2.Auth2
+depend: [Core2]

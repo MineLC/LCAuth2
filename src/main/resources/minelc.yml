@@ -1,0 +1,7 @@
+MySQL:
+  Host: localhost
+  Port: 3306
+  User: root
+  Pass: ''
+  Database: MineLCNetwork
+  Table: Auth
